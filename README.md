@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 My name is Mustafa and I'm a Devops Engineer from Türkiye!</h2>
+<h2 align="center">Hi 👋 My name is Mustafa and I'm a QA & Devops Engineer from Türkiye!</h2>
 
 ###
 
