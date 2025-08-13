@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💬 Ask me about QA enginerring <br><br>📫 How to reach me mustafadall567@gmail.com</p>
+<p align="left">💬 Ask me about QA & Devops! <br><br>📫 How to reach me mustafadall567@gmail.com</p>
 
 ###
 
@@ -69,4 +69,5 @@
 </div>
 
 ###
+
 
